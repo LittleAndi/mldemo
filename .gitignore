@@ -1,0 +1,5 @@
+.vscode/
+bin/
+obj/
+model.zip
+.DS_Store
